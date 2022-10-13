@@ -10,21 +10,25 @@ Develop a Recurrent Neural Network model for stock price prediction using the st
 
 ## Neural Network Model
 
-/home/sec/Downloads/WhatsApp Image 2022-10-13 at 6.32.46 PM.jpeg
+![NEURAL](./W.JPEG)
 ## DESIGN STEPS
 
-### STEP 1: Import the required pakages and upload both train and test datasetets.
-
-### STEP 2: Seprate the train datas into the input and output.conver the array into numpy.
-
-### STEP 3:Create a RNN model.
-### STEP 4: Combine the two dataset into one dataset to predict the price of the up coming years
-
-### STEP 5 : Scale the dataset after combining it , after scaling it use inverse to convert the scaled value into the practical value.
-## STEP 6 : Finally plot the predicted values
-
+### STEP 1:
+Import the required pakages and upload both train and test datasetets.
+### STEP 2:
+ Seprate the train datas into the input and output.conver the array into numpy.
+### STEP 3:
+Create a RNN model.
+### STEP 4:
+ Combine the two dataset into one dataset to predict the price of the up coming years
+### STEP 5 :
+ Scale the dataset after combining it , after scaling it use inverse to convert the scaled value into the practical value.
+### STEP 6 :
+ Finally plot the predicted values
 ## PROGRAM
 
+DEVELOPED BY :Meiyarasi.V
+REGISTER NUMBER :212221230058
 ~~~
 import numpy as np
 import matplotlib.pyplot as plt
@@ -95,11 +99,12 @@ mse(Y_test,predicted_stock_price)
 
 ## OUTPUT
 
-/home/sec/Downloads/l1.png
-/home/sec/Downloads/o1.png
+![OUTPUT](./l1.png)
+![OUTPUT](./o1.png)
 
 ### Mean Square Error
-/home/sec/Downloads/m1.png
+
+![OUTPUT](./m1.png)
 
 ## RESULT
 Thus the prices are predicted for up coming years using given datasets.
