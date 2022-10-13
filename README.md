@@ -8,9 +8,6 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 Develop a Recurrent Neural Network model for stock price prediction using the stock prediction dataset
 
-## Neural Network Model
-
-![Neural Network Model](./W.png)
 ## DESIGN STEPS
 
 ### STEP 1:
